@@ -10,10 +10,7 @@ Here's the Live Deployed Website ![Project 2]()
 
 ## What I learned from this Project?
 
-- I learned about **layout** making through **Flexbox & Grid**.
-- I also learned how to make a full fledged website end to end.
-- I also learned about making beautiful **Cards**.
-- I also about adding svg images in this project.
-- I also learned about customizing svg fill color.
+- I learned about **layout** making through **flex**.
+- Learned about positions
 
 ## This project took around **3 hours** to complete.
